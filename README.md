@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi 👋 I'm Vivek
 
-<!--
-**v-deshkar/v-deshkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Application/Production Support Engineer (2.7 yrs) — Telecom IoT domain  
+🔧 Linux • SQL/PLSQL • Shell scripting • ITIL (Inc/Prob/Change)  
+🛠 Control-M (job monitoring) • Remedy (ticketing)  
+📊 Daily CDR processing • Monthly invoicing • RCA & deployments
 
-Here are some ideas to get you started:
+### What I do
+- L1/L2 app support: monitoring, incident resolution, job restarts, RCA
+- SQL for data validation & analysis
+- Shell scripts to automate health checks and log reviews
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Featured repositories
+- **IoT-Billing-Demo** – sample data flow & docs
+- **SQL-Snippets** – practical SQL for support & reporting
+- **Shell-Automation** – tiny utilities for Linux ops
+
+> All examples here use generic, dummy data (no client/company info).
